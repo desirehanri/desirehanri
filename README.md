@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vatsy</h1>
-<h3 align="center">A new developer</h3>
-![saturday-welcome-to-my-profile](https://user-images.githubusercontent.com/95206624/144110166-a3b465dd-7a66-47fe-99d5-3a3e74947dc8.gif)
+# Vatsy Desire 
+I'm Vatsy from Madagascar and I'm a student. I really started programming for 7 months, I would like to be good at programming and my goal is to become a video games developer and a Fullstack developer
+
+### Skills
+*HTML, CSS, JavaScript(level: intermediate) 
+*C# (level: beginner)
+*Java ((level: beginner)
 
 
 <h3 align="left">Connect with me:</h3>
