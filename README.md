@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vatsy</h1>
 <h3 align="center">A new developer</h3>
-![saturday-welcome-to-my-profile](https://user-images.githubusercontent.com/95206624/144108585-dc8af2f3-437d-4569-97b9-dba00d0d0c10.gif)
+![saturday-welcome-to-my-profile](https://user-images.githubusercontent.com/95206624/144110166-a3b465dd-7a66-47fe-99d5-3a3e74947dc8.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
