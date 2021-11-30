@@ -1,3 +1,4 @@
+![welcome](https://github.com/desirehanri/desirehanri/saturday-welcome-to-my-profile.gif)
 # Vatsy Desire 
 I'm Vatsy from Madagascar and I'm a student. I really started programming for 7 months, I would like to be good at programming and my goal is to become a video game developer and a Fullstack developer.
 
