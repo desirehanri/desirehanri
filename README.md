@@ -1,6 +1,6 @@
 ### Hi, I'm Vatsy 
-https://tenor.com/view/hello-computer-sign-hi-wave-gif-15318802
 
+![hello-computer-sign-hi](https://user-images.githubusercontent.com/95206624/144106137-d6e8041a-6757-467c-ad4e-f6e18a32a2b2.gif)
 
 Here are some ideas to get you started:
 
