@@ -2,9 +2,9 @@
 I'm Vatsy from Madagascar and I'm a student. I really started programming for 7 months, I would like to be good at programming and my goal is to become a video games developer and a Fullstack developer
 
 ### Skills
-*HTML, CSS, JavaScript(level: intermediate) 
-*C# (level: beginner)
-*Java ((level: beginner)
+* HTML, CSS, JavaScript(level: intermediate) 
+* C# (level: beginner)
+* Java ((level: beginner)
 
 
 <h3 align="left">Connect with me:</h3>
