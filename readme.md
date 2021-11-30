@@ -1,6 +1,6 @@
 ![saturday-welcome-to-my-profile](https://user-images.githubusercontent.com/95206624/144124588-dded434d-c4d8-418b-95eb-455103cda7e9.gif)
 # Vatsy Desire 
-I'm Vatsy from Madagascar and I'm a student. I really started programming for 7 months, I would like to be good at programming and my goal is to become a video game developer and a Fullstack developer.
+👋 I'm Vatsy from Madagascar🇲🇬 and I'm a student. I really started programming for 7 months, I would like to be good at programming and my goal is to become a video game developer and a Fullstack developer.
 
 ### Skills :
 * HTML, CSS, JavaScript (level: intermediate) 
@@ -60,3 +60,5 @@ let année = parseInt(prompt("Entrer Année"));
 * [Facebook](https://facebook.com/bruce.bean.7982 "Vatsy Desire")
 * [Twitter](https://twitter.com/desire_vatsy "Vatsy Desire")
 * [Instagram](https://instagram.com/v_desire0 "Vatsy Desire")
+
+Thanks for visiting my profile 😁
